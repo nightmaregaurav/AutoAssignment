@@ -22,7 +22,7 @@ AutoAssignment is a lightweight and easy-to-use library that simplifies the proc
 
 To get started with AutoAssignment, follow these simple steps:
 
-1. Install the AutoAssignment package from NuGet (coming soon).
+1. Install the AutoAssignment package from [NuGet](https://www.nuget.org/packages/AutoAssignment).
 2. Import the `AutoAssignment` namespace in your C# file.
     ```csharp
     using AutoAssignment;
