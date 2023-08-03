@@ -53,4 +53,4 @@ Contributions to AutoAssignment are always welcomed and highly appreciated. If y
 ## License
 AutoAssignment is free and open source, distributed under the MIT License. See the [LICENSE](https://github.com/nightmaregaurav/AutoAssignment/blob/main/LICENSE) file for more details.
 
-Made with love by [NightmareGaurav](https://github.com/nightmaregaurav).
+This library was made with ❤️ by [NightmareGaurav](https://github.com/nightmaregaurav).
