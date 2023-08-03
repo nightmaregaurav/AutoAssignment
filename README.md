@@ -9,6 +9,15 @@ AutoAssignment is a lightweight and easy-to-use library that simplifies the proc
 - Create new objects based on the source object's data.
 - Supports any type of objects with flexible assignment rules.
 
+## Use Cases
+
+1. DTO (Data Transfer Objects) Mapping
+2. Entity Framework: Entity to ViewModel Mapping
+3. Copying Data Between Similar Objects
+4. Object Cloning and Prototyping
+5. Unit Testing
+
+
 ## Getting Started
 
 To get started with AutoAssignment, follow these simple steps:
