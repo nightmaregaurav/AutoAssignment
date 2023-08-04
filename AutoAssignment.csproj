@@ -1,16 +1,24 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>nightmaregaurav.autoassignment</PackageId>
+        <Version>1.0.1</Version>
+        <PackageVersion>1.0.1</PackageVersion>
+        <Description>A Light weight and simple alternative to AutoMapper.</Description>
+        <Authors>Gaurav Nyaupane</Authors>
+        <Owners>nightmaregaurav</Owners>
+        <PackageProjectUrl>https://github.com/nightmaregaurav/AutoAssignment</PackageProjectUrl>
+        <Copyright>Copyright ©2023 Gaurav Nyaupane (nightmaregaurav)</Copyright>
+        <PackageTags>objectmapper automapper</PackageTags>
+        <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+    </PropertyGroup>
 
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-    <PackageLicenseFile>LICENSE</PackageLicenseFile>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
-  </PropertyGroup>
-
-  <ItemGroup>
-    <None Include="LICENSE" Pack="true" PackagePath="" />
-    <None Include="README.md" Pack="true" PackagePath="\" />
-  </ItemGroup>
-
+    <ItemGroup>
+        <None Include="LICENSE" Pack="true" PackagePath="" />
+        <None Include="README.md" Pack="true" PackagePath="\" />
+    </ItemGroup>
 </Project>
