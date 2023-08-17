@@ -4,8 +4,8 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <PackageId>nightmaregaurav.autoassignment</PackageId>
-        <Version>1.0.1</Version>
-        <PackageVersion>1.0.1</PackageVersion>
+        <Version>1.0.2</Version>
+        <PackageVersion>1.0.2</PackageVersion>
         <Description>A Light weight and simple alternative to AutoMapper.</Description>
         <Authors>Gaurav Nyaupane</Authors>
         <Owners>nightmaregaurav</Owners>
