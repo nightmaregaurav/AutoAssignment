@@ -4,13 +4,13 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <PackageId>nightmaregaurav.autoassignment</PackageId>
-        <Version>1.0.2</Version>
-        <PackageVersion>1.0.2</PackageVersion>
+        <Version>2.0.0</Version>
+        <PackageVersion>2.0.0</PackageVersion>
         <Description>A Light weight and simple alternative to AutoMapper.</Description>
         <Authors>Gaurav Nyaupane</Authors>
         <Owners>nightmaregaurav</Owners>
         <PackageProjectUrl>https://github.com/nightmaregaurav/AutoAssignment</PackageProjectUrl>
-        <Copyright>Copyright ©2023 Gaurav Nyaupane (nightmaregaurav)</Copyright>
+        <Copyright>Copyright ©2024 Gaurav Nyaupane (nightmaregaurav)</Copyright>
         <PackageTags>objectmapper automapper</PackageTags>
         <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
         <PackageLicenseFile>LICENSE</PackageLicenseFile>
